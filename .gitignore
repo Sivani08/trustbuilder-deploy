@@ -1,0 +1,4 @@
+.trustbuilder-data/
+.env
+*.log
+node_modules/
